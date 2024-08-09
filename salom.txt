@@ -1,1 +1,5 @@
 Salom bolalafr
+
+Salom txt keldi
+
+Git ochdim
